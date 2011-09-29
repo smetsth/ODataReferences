@@ -1,0 +1,7 @@
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\bin\ODataReferences.Services.dll
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\bin\ODataReferences.Services.pdb
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\bin\ODataReferences.Contracts.dll
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\bin\ODataReferences.Contracts.pdb
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\obj\Debug\ODataReferences.Services.dll
+C:\Dev\github.com\ODataReferences\ODataReferences.Services\obj\Debug\ODataReferences.Services.pdb
