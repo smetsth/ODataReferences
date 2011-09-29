@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataReferences.Contracts",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataReferences.Services", "ODataReferences.Services\ODataReferences.Services.csproj", "{6CFC1B7F-BA1C-41FC-BBDA-B6C4E5D4C991}"
 EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ODataReferences.Modelling", "ODataReferences.Modelling\ODataReferences.Modelling.modelproj", "{FBBB7956-3998-4910-97E1-A26A3199ED92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{6CFC1B7F-BA1C-41FC-BBDA-B6C4E5D4C991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CFC1B7F-BA1C-41FC-BBDA-B6C4E5D4C991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CFC1B7F-BA1C-41FC-BBDA-B6C4E5D4C991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBB7956-3998-4910-97E1-A26A3199ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBB7956-3998-4910-97E1-A26A3199ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBB7956-3998-4910-97E1-A26A3199ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBB7956-3998-4910-97E1-A26A3199ED92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

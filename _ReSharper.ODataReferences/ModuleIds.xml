@@ -1,5 +1,0 @@
-<Modules>
-  <Module PersistentId="779BB545-A79B-448E-B624-42FC4033EC5B" ModuleId="ODataReferences.Web" />
-  <Module PersistentId="8498D2E2-0377-4835-AB71-9343640346E4" ModuleId="ODataReferences.Contracts" />
-  <Module PersistentId="6CFC1B7F-BA1C-41FC-BBDA-B6C4E5D4C991" ModuleId="ODataReferences.Services" />
-</Modules>

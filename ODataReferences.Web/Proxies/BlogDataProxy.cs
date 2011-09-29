@@ -14,7 +14,6 @@ namespace ODataReferences.Web.Proxies
         public BlogDataProxy()
             : base(new Uri("http://localhost:58722/BlogDataService.svc"))
         {
-
         }
 
         public IQueryable<BlogPost> Posts
